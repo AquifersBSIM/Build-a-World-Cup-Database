@@ -3,7 +3,7 @@ freeCodeCamp Certification Projects for Relational Database
 
 Part 1: Create the database
 
-Log into the psql interactive terminal with psql --username=freecodecamp --dbname=postgres and create your database structure according to the user stories below.
+Log into the psql interactive terminal with ... and create your database structure according to the user stories below.
 
 Don't forget to connect to the database after you create it.
 
