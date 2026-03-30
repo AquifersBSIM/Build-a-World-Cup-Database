@@ -1,5 +1,5 @@
 # Build-a-World-Cup-Database
-freeCodeCamp Certification Projects for Relational Database
+*freeCodeCamp Certification Projects for Relational Database*
 
 Part 1: Create the database
 
